@@ -8,7 +8,7 @@ I am a Student
 
 ## About Me:
 
-- Learning JavaScript currently
+- Learning JavaScript and Python currently
 - Basic Developer
 
 ## Projects
