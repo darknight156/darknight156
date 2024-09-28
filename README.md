@@ -1,7 +1,7 @@
 ### [Hey There I am DarkNighT](https://discord.gg/KbJcNQwpaD)
 
-<a href="https://discord.com/users/1188178871049265282">
-<img src="https://discord.c99.nl/widget/theme-3/1188178871049265282.png" alt="Discord"/>
+<a href="https://discord.com/users/919147106684510249">
+<img src="[https://discord.c99.nl/widget/theme-3/919147106684510249.png]" alt="Discord"/>
 </a>
 
 I am a Student
