@@ -12,7 +12,7 @@ I am a Student
 - Basic Developer
 
 ## Projects
-<a href = "https://discord.gg/bakchodi">
+<a href = "https://discord.gg/biryani">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&animation=blink&height=150&reversal=tru&width=100&theme=gruvbox&section=header&text=Trixo&fontColor=15f8ef&fontSize=75&fontAlignY=39" />
 </a>
 
