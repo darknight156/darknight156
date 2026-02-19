@@ -1,21 +1,37 @@
-### [Hey There I am DarkNighT](https://discord.gg/KbJcNQwpaD)
+<div align="center">
 
-<a href="https://discord.com/users/919147106684510249">
-<img src="[https://discord.c99.nl/widget/theme-3/919147106684510249.png]" alt="Discord"/>
-</a>
+# Hey, I'm DarkNighT 👋
 
-I am a Student
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/919147106684510249)
 
-## About Me:
+</div>
 
-- Learning JavaScript and Python currently
-- Basic Developer
+---
 
-## Projects
-<a href = "https://discord.gg/biryani">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&animation=blink&height=150&reversal=tru&width=100&theme=gruvbox&section=header&text=Trixo&fontColor=15f8ef&fontSize=75&fontAlignY=39" />
-</a>
+## 🙋 About Me
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/1188178871049265282)
+I'm a student and aspiring developer, currently building my foundations in programming.
 
+- 🌱 Currently learning **Python**
+- 🛠️ Building my first projects and growing every day
+- 💬 Feel free to reach out — always happy to connect!
+
+---
+
+## 🚀 Projects
+
+### [Cypher]([https://discord.gg/biryani](https://discord.gg/f3kJUY4RdV))
+> A Discord bot / community project.
+
+---
+
+## 🌐 Connect With Me
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1188178871049265282)
+[![Discord Server](https://img.shields.io/badge/Server-Join%20Us-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/KbJcNQwpaD)
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=100&section=footer" />
+</div>
