@@ -29,10 +29,10 @@ hey, i'm **darknight** — a developer learning the craft, breaking things and f
   <tr>
     <td>
       <strong>Discord Bot</strong><br/>
-      <sub>A custom Discord bot powered by <a href="https://slug.lat">Slug</a>. Work in progress.</sub>
+      <sub>A custom Discord bot powered by <a href="https://slug.lat">Slug</a></sub>
     </td>
     <td align="right">
-      <img src="https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/status-online-brightgreen?style=flat-square&labelColor=0d1117" />
     </td>
   </tr>
 </table>
