@@ -1,37 +1,81 @@
 <div align="center">
 
-# Hey, I'm DarkNighT 👋
+# DarkNighT
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/919147106684510249)
+*building things in the dark, one commit at a time*
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1006154404849197146?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=probably%20sleeping...)](https://discord.com/users/1006154404849197146)
 
 </div>
 
 ---
 
-## 🙋 About Me
+## about me
 
-I'm a student and aspiring developer, currently building my foundations in programming.
+hey, i'm **darknight** — a developer learning the craft, breaking things and fixing them.
 
-- 🌱 Currently learning **Python**
-- 🛠️ Building my first projects and growing every day
-- 💬 Feel free to reach out — always happy to connect!
-
----
-
-## 🚀 Projects
-
-### [Cypher]([https://discord.gg/biryani](https://discord.gg/f3kJUY4RdV))
-> A Discord bot / community project.
+- 🤖 currently building a **Discord bot** using [Slug](https://slug.lat)
+- 🐍 learning **Python** — one script at a time
+- 🌙 usually online late nights
+- 💬 reach me on Discord: `darknight.ig`
 
 ---
 
-## 🌐 Connect With Me
+## current project
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1188178871049265282)
-[![Discord Server](https://img.shields.io/badge/Server-Join%20Us-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/KbJcNQwpaD)
+<table>
+  <tr>
+    <td>
+      <strong>Discord Bot</strong><br/>
+      <sub>A custom Discord bot powered by <a href="https://slug.lat">Slug</a>. Work in progress.</sub>
+    </td>
+    <td align="right">
+      <img src="https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square&labelColor=0d1117" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## stack & tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
+![Slug](https://img.shields.io/badge/Slug-slug.lat-black?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## discord status
+
+> live status powered by [Lanyard](https://github.com/Phineas/lanyard)
+
+
+```
+https://api.lanyard.rest/v1/users/1130505804009721886
+```
+
+To show your real-time Discord status anywhere, use:
+
+```md
+[![Discord Presence](https://lanyard.cnrad.dev/api/1130505804009721886)](https://discord.com/users/1130505804009721886)
+```
+
+---
+
+## github stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darknight&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darknight&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e)
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=100&section=footer" />
+  <sub>darknight.ig on Discord · built with 🖤</sub>
 </div>
