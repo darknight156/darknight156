@@ -52,25 +52,15 @@ hey, i'm **darknight** — a developer learning the craft, breaking things and f
 > live status powered by [Lanyard](https://github.com/Phineas/lanyard)
 
 
-```
+
 https://api.lanyard.rest/v1/users/1130505804009721886
-```
+
 
 To show your real-time Discord status anywhere, use:
 
-```md
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/1130505804009721886)](https://discord.com/users/1130505804009721886)
-```
 
----
-
-## github stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darknight&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darknight&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e)
 
 </div>
 
