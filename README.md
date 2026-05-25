@@ -4,7 +4,9 @@
 
 *building things in the dark, one commit at a time*
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1006154404849197146?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=probably%20sleeping...)](https://discord.com/users/1006154404849197146)
+<a href="https://discord.com/users/1130505804009721886">
+  <img src="https://lanyard.cnrad.dev/api/1130505804009721886?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=16px&idleMessage=offline" alt="discord presence" />
+</a>
 
 </div>
 
@@ -44,22 +46,6 @@ hey, i'm **darknight** — a developer learning the craft, breaking things and f
 ![Slug](https://img.shields.io/badge/Slug-slug.lat-black?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-## discord status
-
-> live status powered by [Lanyard](https://github.com/Phineas/lanyard)
-
-
-
-https://api.lanyard.rest/v1/users/1130505804009721886
-
-
-To show your real-time Discord status anywhere, use:
-
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1130505804009721886)](https://discord.com/users/1130505804009721886)
 
 
 </div>
